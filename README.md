@@ -3,6 +3,11 @@ Interview Questions for Backend Engineers:
 ### Java Questions:
 1. Write a program to print ALL permutations of a given string with repetition. e.g. input ABC then output: AAA, AAB, AAC, ABA, ABB, ABC, ACA, ACB, ACC, etc.<br><br>
 Ans: Please check this project in class "printPermutations" path: "src/main/java/org.example/printPermutations<br><br>
+
+and result like this picture.<br>
+![image](https://github.com/0xAlbertLin/demo_2024001/assets/46127917/d1c411bb-7f54-43c6-aaa4-0e1f10f812c1)
+
+
 2. What’s the difference between process and thread?<br><br>
 Ans:<br>
 每一個Process都是獨立的，且擁有獨立的記憶體空間及資源，但Process無法直接與另一個Process進行溝通。<br>
