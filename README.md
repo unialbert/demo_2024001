@@ -189,7 +189,7 @@ container technology provides a faster, more efficient, and more reliable way to
 especially in the context of modern software development environments that require rapid iteration and scalability.<br><br>
 
 ### Non-Technical Questions:
-1.What do you think a great Java software engineer should do? What should he avoid?<br><br>
+1. What do you think a great Java software engineer should do? What should he avoid?<br><br>
 Ans:<br>
 我認為需要持續學習並更新資訊。<br>
 以及若有許多重複性程式碼，可以做成一個function或是做成utils的共用元件，並免增加程式的複雜性。<br>
