@@ -1,4 +1,4 @@
-# demo_2024001
+# Interview Questions for Backend Engineers_2024001
 Interview Questions for Backend Engineers:
 ### Java Questions:
 1. Write a program to print ALL permutations of a given string with repetition. e.g. input ABC then output: AAA, AAB, AAC, ABA, ABB, ABC, ACA, ACB, ACC, etc.<br><br>
